@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4NzD/2HjEP1IbsqdDdNNBOoKDsXNyJOzrEGbnBsmrngQAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JH23zKLikngvIAsAZLcQSsQAAAA=[0mFirst_Job" build number [8mha:////4COJMkup4ml3teI8+etRvnhk5DJxgs8gyCpFMB+VHz7eAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwkfbfMouKSeC8gywgA4XdIHMUAAAA=[0m2
+originally caused by:
+ Started by user [8mha:////4OfP414P8ENx4jVPPtwotzpzg11kdsTr8i+cjdlzAUm3AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYB/dLi1CL94ozSpIzE3HhzSwC64fOQxQAAAA==[0mShubham Dixit
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/Second_Job
+[Second_Job] $ /bin/sh -xe /tmp/jenkins4153589462957884541.sh
+++ date
++ echo 'Second Job : Triggered at : Thu Jun 20 21:46:01 UTC 2019'
+Second Job : Triggered at : Thu Jun 20 21:46:01 UTC 2019
+Triggering a new build of [8mha:////4Nj+dwa2hFK2sVBp5Swj8gk0KrN+WfnuJM37RDnhYwF+AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP2QjMyilHgvIAsAoNZA+sQAAAA=[0mThird_Job
+Finished: SUCCESS

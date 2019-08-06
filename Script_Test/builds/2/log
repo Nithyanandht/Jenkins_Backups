@@ -1,0 +1,8 @@
+Started by user [8mha:////4OfP414P8ENx4jVPPtwotzpzg11kdsTr8i+cjdlzAUm3AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYB/dLi1CL94ozSpIzE3HhzSwC64fOQxQAAAA==[0mShubham Dixit
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/Script_Test
+[Script_Test] $ /bin/sh -xe /tmp/jenkins2307484510549877809.sh
++ cd Pipeline_Script/
+/tmp/jenkins2307484510549877809.sh: line 2: cd: Pipeline_Script/: No such file or directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,14 @@
+Started by user [8mha:////4OfP414P8ENx4jVPPtwotzpzg11kdsTr8i+cjdlzAUm3AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYB/dLi1CL94ozSpIzE3HhzSwC64fOQxQAAAA==[0mShubham Dixit
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/Script_Test
+[Script_Test] $ /bin/sh -xe /tmp/jenkins4344349717282379842.sh
++ cd Pipeline_Script/
++ ./Build.sh
+Building the Project : at Thu Jun 20 22:47:21 UTC 2019
++ ./Deploy.sh
+The Project is Deploying at : Thu Jun 20 22:47:21 UTC 2019
++ ./Quality.sh
+The Project Quality is Checked at : Thu Jun 20 22:47:21 UTC 2019
++ ./Unit.sh
+The Project Unit Test is Checked at : Thu Jun 20 22:47:21 UTC 2019
+Finished: SUCCESS

@@ -1,0 +1,12 @@
+Started by upstream project "[8mha:////4NjJ7cWesD+xkWyFyqJW9391QgVdbHgJu8sWT+WziFyBAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP3gVKDqlHgvIBMAGqv+x8UAAAA=[0mSecond_Job" build number [8mha:////4JxS4dSV20JJQuymt4RmiWovjetfHqKNf+4jybt34YOQAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkH9rPwk/eBUoOqUeC8g0xAAEtXHz8YAAAA=[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4NzD/2HjEP1IbsqdDdNNBOoKDsXNyJOzrEGbnBsmrngQAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JH23zKLikngvIAsAZLcQSsQAAAA=[0mFirst_Job" build number [8mha:////4HeNT7dZcGmvidWB6Iir6VhlX8NjnJRhwwO86dcjzIKGAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwkfbfMouKSeC8gyxAAWyZBhcUAAAA=[0m1
+ originally caused by:
+  Started by user [8mha:////4OfP414P8ENx4jVPPtwotzpzg11kdsTr8i+cjdlzAUm3AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYB/dLi1CL94ozSpIzE3HhzSwC64fOQxQAAAA==[0mShubham Dixit
+Running as SYSTEM
+Building remotely on [8mha:////4AyPMl9tfsdcWgY47Md+X1X1//kJeSdfxT987uIAEXuQAAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYF/eT83ILSktQi/dCk0ryS0vjgnMSy1HhDCz0Dk3ifkGAAuK2kuNUAAAA=[0mUbuntu_Slave_18.04_LTS (ubuntu) in workspace /home/jenkins/jenkins_slave/workspace/Third_Job
+[Third_Job] $ /bin/sh -xe /tmp/jenkins17331675796469642724.sh
++ date
++ echo Third Job : Triggered at : Thu Jun 20 21:35:31 UTC 2019
+Third Job : Triggered at : Thu Jun 20 21:35:31 UTC 2019
+Finished: SUCCESS
